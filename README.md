@@ -1,3 +1,5 @@
+> **⚠️ This repository has been archived.** We have created a new repository as its replacement: [scaffold](https://github.com/CodeCanvasCollective/scaffold).
+
 # Structure
 
 Implement a highly scalable folder structure for your Angular project.
